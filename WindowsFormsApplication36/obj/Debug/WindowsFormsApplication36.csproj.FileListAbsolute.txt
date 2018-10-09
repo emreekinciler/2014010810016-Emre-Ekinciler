@@ -1,0 +1,27 @@
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe.config
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.EmreEkinciler.resources
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.Properties.Resources.resources
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication36\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe.config
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.EmreEkinciler.resources
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.Properties.Resources.resources
+C:\Users\TOSHIBA TÜRKİYE\Desktop\emre\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe.config
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.exe
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\bin\Debug\WindowsFormsApplication36.pdb
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.EmreEkinciler.resources
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.Properties.Resources.resources
+C:\Users\TOSHIBA TÜRKİYE\Desktop\2014010810016-Emre Ekinciler\WindowsFormsApplication36\obj\Debug\WindowsFormsApplication36.csproj.GenerateResource.Cache
